@@ -2,8 +2,7 @@
 
 # Life Organizer
 
-Luto Juan is a revolutionary cooking app designed to help you prepare delicious, healthy, and affordable meals from the comfort of your own kitchen. With Luto Juan, you can browse through a wide range of recipes, and learn how to cook like a pro.
-
+A calendar app for organizing custom and school-related events.
 
 ## Screenshots
 
@@ -15,11 +14,9 @@ Luto Juan is a revolutionary cooking app designed to help you prepare delicious,
 
 Here're some of the project's best features:
 
-- View Recipes
-- Generate Recipes
-- Calorie Tracker
-- Daily Articles
-- Daily Trivia
+- Schedule Personal Events
+- Mark Dates with Tags
+- Add Pictures in Events
 
 
 
@@ -29,7 +26,6 @@ Technologies used in the project:
 
 *   Flutter
 *   Firebase
-*   NPoint
 
 
 
